@@ -38,7 +38,7 @@ export default function PredictiveMaintenanceDashboard() {
 
   const fetchAssets = async () => {
     try {
-      let url = 'http://localhost:5000/api/maintenance/assets?';
+      let url = '/api/maintenance/assets?';
       if (selectedRisk !== 'All') {
         url += `riskLevel=${encodeURIComponent(selectedRisk)}&`;
       }
@@ -84,7 +84,7 @@ export default function PredictiveMaintenanceDashboard() {
         : [];
 
       const res = await fetch(
-        `http://localhost:5000/api/maintenance/assets/${servicingAsset._id}/service`,
+        `/api/maintenance/assets/${servicingAsset._id}/service`,
         {
           method: 'POST',
           headers: {

@@ -48,7 +48,7 @@ export default function CampusXAdminDashboard({ onNavigateTab }) {
   const fetchDashboardData = async () => {
     setLoading(true);
     try {
-      let url = `http://localhost:5000/api/admin/dashboard?timeRange=${timeRange}&`;
+      let url = `/api/admin/dashboard?timeRange=${timeRange}&`;
       if (selectedDept !== 'All') {
         url += `department=${encodeURIComponent(selectedDept)}&`;
       }

@@ -31,7 +31,7 @@ export default function AdminEquipmentMaintenance({ initialSearchQuery = '' }) {
   const fetchEquipment = async () => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:5000/api/maintenance/equipment', {
+      const res = await fetch('/api/maintenance/equipment', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -59,7 +59,7 @@ export default function AdminEquipmentMaintenance({ initialSearchQuery = '' }) {
   const handleScheduleMaintenance = async (item) => {
     setActionLoadingId(item._id);
     try {
-      const res = await fetch(`http://localhost:5000/api/maintenance/equipment/${item._id}/schedule`, {
+      const res = await fetch(`/api/maintenance/equipment/${item._id}/schedule`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -86,7 +86,7 @@ export default function AdminEquipmentMaintenance({ initialSearchQuery = '' }) {
   const handleCompleteMaintenance = async (item) => {
     setActionLoadingId(item._id);
     try {
-      const res = await fetch(`http://localhost:5000/api/maintenance/equipment/${item._id}/complete`, {
+      const res = await fetch(`/api/maintenance/equipment/${item._id}/complete`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

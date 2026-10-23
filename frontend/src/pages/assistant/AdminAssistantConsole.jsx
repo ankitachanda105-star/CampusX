@@ -92,7 +92,7 @@ export default function AdminAssistantConsole() {
     setLoading(true);
 
     try {
-      const res = await fetch('http://localhost:5000/api/assistant/query', {
+      const res = await fetch('/api/assistant/query', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

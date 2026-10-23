@@ -25,7 +25,7 @@ export default function ServiceRequestTracker({ initialSelectedId }) {
 
   const fetchMyRequests = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/services/my', {
+      const res = await fetch('/api/services/my', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -232,7 +232,7 @@ export default function ServiceRequestTracker({ initialSelectedId }) {
                 <div className="pt-2 flex items-center space-x-2">
                   <span className="font-bold text-slate-700">Attached File:</span>
                   <a
-                    href={`http://localhost:5000${selectedRequest.documentUrl}`}
+                    href={`${selectedRequest.documentUrl}`}
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center text-brand-800 hover:text-brand-900 font-bold underline"

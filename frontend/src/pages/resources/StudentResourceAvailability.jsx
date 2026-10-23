@@ -29,7 +29,7 @@ export default function StudentResourceAvailability() {
   const fetchResources = async () => {
     setLoading(true);
     try {
-      let url = 'http://localhost:5000/api/resources?';
+      let url = '/api/resources?';
       if (selectedBlock !== 'All') url += `block=${encodeURIComponent(selectedBlock)}&`;
       if (selectedType !== 'All') url += `type=${encodeURIComponent(selectedType)}&`;
       if (onlyAvailable) url += `status=Available&`;

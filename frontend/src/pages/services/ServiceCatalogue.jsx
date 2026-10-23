@@ -34,7 +34,7 @@ export default function ServiceCatalogue({ onApplicationSuccess }) {
 
   const fetchCatalogue = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/services/catalogue', {
+      const res = await fetch('/api/services/catalogue', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -100,7 +100,7 @@ export default function ServiceCatalogue({ onApplicationSuccess }) {
         formData.append('document', documentFile);
       }
 
-      const res = await fetch('http://localhost:5000/api/services/request', {
+      const res = await fetch('/api/services/request', {
         method: 'POST',
         headers: {
           Authorization: `Bearer ${token}`,

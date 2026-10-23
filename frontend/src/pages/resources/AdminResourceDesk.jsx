@@ -31,7 +31,7 @@ export default function AdminResourceDesk() {
 
   const fetchBookings = async () => {
     try {
-      let url = 'http://localhost:5000/api/resources/bookings/admin?';
+      let url = '/api/resources/bookings/admin?';
       if (statusFilter !== 'All') {
         url += `status=${encodeURIComponent(statusFilter)}&`;
       }
@@ -60,7 +60,7 @@ export default function AdminResourceDesk() {
     setProcessing(true);
     try {
       const res = await fetch(
-        `http://localhost:5000/api/resources/bookings/${activeBooking._id}/review`,
+        `/api/resources/bookings/${activeBooking._id}/review`,
         {
           method: 'POST',
           headers: {

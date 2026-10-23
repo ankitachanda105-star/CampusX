@@ -36,7 +36,7 @@ export default function AdminQueueConsole() {
 
   const fetchConsoleData = async () => {
     try {
-      const res = await fetch(`http://localhost:5000/api/queues/console/${encodeURIComponent(selectedOffice)}`, {
+      const res = await fetch(`/api/queues/console/${encodeURIComponent(selectedOffice)}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -62,7 +62,7 @@ export default function AdminQueueConsole() {
     setCallingNext(true);
     setMessage(null);
     try {
-      const res = await fetch('http://localhost:5000/api/queues/call-next', {
+      const res = await fetch('/api/queues/call-next', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -93,7 +93,7 @@ export default function AdminQueueConsole() {
     e.preventDefault();
     setSavingConfig(true);
     try {
-      const res = await fetch('http://localhost:5000/api/queues/config', {
+      const res = await fetch('/api/queues/config', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

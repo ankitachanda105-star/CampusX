@@ -34,7 +34,7 @@ export default function ResourceBookingModal({ resource, onClose, onBookingSucce
     setLoadingSlots(true);
     try {
       const res = await fetch(
-        `http://localhost:5000/api/resources/${resource._id}/availability?date=${dateStr}`,
+        `/api/resources/${resource._id}/availability?date=${dateStr}`,
         {
           headers: { Authorization: `Bearer ${token}` },
         }
@@ -65,7 +65,7 @@ export default function ResourceBookingModal({ resource, onClose, onBookingSucce
 
     setSubmitting(true);
     try {
-      const res = await fetch('http://localhost:5000/api/resources/book', {
+      const res = await fetch('/api/resources/book', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

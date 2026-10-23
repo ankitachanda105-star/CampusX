@@ -33,7 +33,7 @@ export default function AdminActivityLogs() {
   const fetchLogs = async (currentPage = 1) => {
     setLoading(true);
     try {
-      let url = `http://localhost:5000/api/admin/activity-logs?page=${currentPage}&limit=25&`;
+      let url = `/api/admin/activity-logs?page=${currentPage}&limit=25&`;
       if (selectedAction !== 'All') url += `action=${encodeURIComponent(selectedAction)}&`;
       if (selectedRole !== 'All') url += `userRole=${encodeURIComponent(selectedRole)}&`;
       if (searchQuery.trim()) url += `search=${encodeURIComponent(searchQuery.trim())}&`;

@@ -32,7 +32,7 @@ export default function StaffServiceApprovalQueue() {
 
   const fetchQueue = async () => {
     try {
-      let url = 'http://localhost:5000/api/services/admin/queue?';
+      let url = '/api/services/admin/queue?';
       if (statusFilter !== 'All') {
         url += `status=${encodeURIComponent(statusFilter)}&`;
       }
@@ -66,7 +66,7 @@ export default function StaffServiceApprovalQueue() {
     setProcessingAction(true);
     setMessage(null);
     try {
-      const res = await fetch(`http://localhost:5000/api/services/${activeRequest._id}/review`, {
+      const res = await fetch(`/api/services/${activeRequest._id}/review`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -303,7 +303,7 @@ export default function StaffServiceApprovalQueue() {
                   <div className="flex justify-between pt-2 border-t border-slate-200">
                     <span className="text-slate-500">Uploaded Document:</span>
                     <a
-                      href={`http://localhost:5000${activeRequest.documentUrl}`}
+                      href={`${activeRequest.documentUrl}`}
                       target="_blank"
                       rel="noreferrer"
                       className="inline-flex items-center text-brand-800 hover:text-brand-900 font-bold underline"

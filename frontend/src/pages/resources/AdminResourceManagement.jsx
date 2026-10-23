@@ -49,7 +49,7 @@ export default function AdminResourceManagement() {
   const fetchResources = async () => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:5000/api/resources', {
+      const res = await fetch('/api/resources', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -105,7 +105,7 @@ export default function AdminResourceManagement() {
     }
 
     try {
-      const resp = await fetch(`http://localhost:5000/api/resources/${res._id}`, {
+      const resp = await fetch(`/api/resources/${res._id}`, {
         method: 'DELETE',
         headers: { Authorization: `Bearer ${token}` },
       });
@@ -140,8 +140,8 @@ export default function AdminResourceManagement() {
 
     try {
       const url = isEditing
-        ? `http://localhost:5000/api/resources/${currentId}`
-        : 'http://localhost:5000/api/resources';
+        ? `/api/resources/${currentId}`
+        : '/api/resources';
       const method = isEditing ? 'PUT' : 'POST';
 
       const resp = await fetch(url, {

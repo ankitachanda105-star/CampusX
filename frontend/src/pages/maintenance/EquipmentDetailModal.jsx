@@ -40,7 +40,7 @@ export default function EquipmentDetailModal({ equipment, onClose, onRefresh }) 
 
     setSubmittingFailure(true);
     try {
-      const res = await fetch(`http://localhost:5000/api/maintenance/equipment/${equipment._id}/failures`, {
+      const res = await fetch(`/api/maintenance/equipment/${equipment._id}/failures`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

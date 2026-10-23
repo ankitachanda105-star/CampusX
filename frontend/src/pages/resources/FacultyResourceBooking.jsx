@@ -43,7 +43,7 @@ export default function FacultyResourceBooking() {
   const fetchResources = async () => {
     setLoading(true);
     try {
-      const res = await fetch('http://localhost:5000/api/resources', {
+      const res = await fetch('/api/resources', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -59,7 +59,7 @@ export default function FacultyResourceBooking() {
 
   const fetchMyBookings = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/resources/my-bookings', {
+      const res = await fetch('/api/resources/my-bookings', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -81,7 +81,7 @@ export default function FacultyResourceBooking() {
     if (!resId || !dateStr) return;
     setLoadingSlots(true);
     try {
-      const res = await fetch(`http://localhost:5000/api/resources/${resId}/availability?date=${dateStr}`, {
+      const res = await fetch(`/api/resources/${resId}/availability?date=${dateStr}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -121,7 +121,7 @@ export default function FacultyResourceBooking() {
 
     setSubmitting(true);
     try {
-      const res = await fetch('http://localhost:5000/api/resources/book', {
+      const res = await fetch('/api/resources/book', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -31,7 +31,7 @@ export default function ResourceCatalogue({ onBookingSuccess }) {
 
   const fetchResources = async () => {
     try {
-      let url = 'http://localhost:5000/api/resources?';
+      let url = '/api/resources?';
       if (selectedCategory !== 'All') {
         url += `category=${encodeURIComponent(selectedCategory)}&`;
       }

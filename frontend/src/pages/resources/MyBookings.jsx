@@ -21,7 +21,7 @@ export default function MyBookings() {
 
   const fetchBookings = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/resources/bookings/my', {
+      const res = await fetch('/api/resources/bookings/my', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -43,7 +43,7 @@ export default function MyBookings() {
     if (!window.confirm('Are you sure you want to cancel this reservation?')) return;
     setCancellingId(bId);
     try {
-      const res = await fetch(`http://localhost:5000/api/resources/bookings/${bId}/cancel`, {
+      const res = await fetch(`/api/resources/bookings/${bId}/cancel`, {
         method: 'POST',
         headers: { Authorization: `Bearer ${token}` },
       });

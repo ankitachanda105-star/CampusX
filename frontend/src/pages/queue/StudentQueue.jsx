@@ -29,7 +29,7 @@ export default function StudentQueue() {
   const fetchOfficesAndToken = async () => {
     try {
       // 1. Fetch offices
-      const officesRes = await fetch('http://localhost:5000/api/queues/offices', {
+      const officesRes = await fetch('/api/queues/offices', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const officesData = await officesRes.json();
@@ -38,7 +38,7 @@ export default function StudentQueue() {
       }
 
       // 2. Fetch student's active token
-      const tokenRes = await fetch('http://localhost:5000/api/queues/my-token', {
+      const tokenRes = await fetch('/api/queues/my-token', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const tokenData = await tokenRes.json();
@@ -65,7 +65,7 @@ export default function StudentQueue() {
     setJoiningOffice(officeName);
     setMessage(null);
     try {
-      const res = await fetch('http://localhost:5000/api/queues/join', {
+      const res = await fetch('/api/queues/join', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -94,7 +94,7 @@ export default function StudentQueue() {
     }
     setCancelling(true);
     try {
-      const res = await fetch('http://localhost:5000/api/queues/cancel', {
+      const res = await fetch('/api/queues/cancel', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

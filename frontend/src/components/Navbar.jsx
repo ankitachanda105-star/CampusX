@@ -28,7 +28,7 @@ export default function Navbar() {
   const fetchNotifications = async () => {
     if (!token) return;
     try {
-      const res = await fetch('http://localhost:5000/api/notifications', {
+      const res = await fetch('/api/notifications', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await res.json();
@@ -60,7 +60,7 @@ export default function Navbar() {
 
   const handleMarkAllRead = async () => {
     try {
-      await fetch('http://localhost:5000/api/notifications/mark-read', {
+      await fetch('/api/notifications/mark-read', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -24,7 +24,7 @@ export default function AdminLiveMetrics() {
 
   const fetchAnalytics = async () => {
     try {
-      const res = await fetch('http://localhost:5000/api/analytics/dashboard', {
+      const res = await fetch('/api/analytics/dashboard', {
         headers: { Authorization: `Bearer ${token}` },
       });
       const resData = await res.json();
