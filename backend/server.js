@@ -167,7 +167,11 @@ async function startServer() {
   } catch (err) {
     console.warn('Local MongoDB daemon not accessible. Starting embedded in-memory MongoDB...');
     try {
-      const mongod = await MongoMemoryServer.create();
+      const mongod = await MongoMemoryServer.create({
+        binary: {
+          version: '7.0.14',
+        },
+      });
       const memUri = mongod.getUri();
       await mongoose.connect(memUri);
       console.log(`Connected to in-memory MongoDB at: ${memUri}`);

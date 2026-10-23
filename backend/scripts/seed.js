@@ -51,7 +51,11 @@ async function connectDB() {
     console.log('Connected to local/external MongoDB.');
   } catch (err) {
     console.log('Local MongoDB not reachable. Spinning up embedded MongoMemoryServer for seed...');
-    const mongod = await MongoMemoryServer.create();
+    const mongod = await MongoMemoryServer.create({
+      binary: {
+        version: '7.0.14',
+      },
+    });
     const memUri = mongod.getUri();
     await mongoose.connect(memUri);
     console.log(`Connected to MongoMemoryServer at: ${memUri}`);
