@@ -1,0 +1,41 @@
+services:
+  # ============================================================
+  # 1. CampusX Fullstack Web App (Backend API + React Frontend)
+  # ============================================================
+  - type: web
+    name: campusx-app
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm run build:all
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: AI_SERVICE_URL
+        fromService:
+          type: web
+          name: campusx-ai
+          property: host
+      # To persist data permanently, add your free MongoDB Atlas connection string:
+      # - key: MONGODB_URI
+      #   value: mongodb+srv://<user>:<password>@cluster.mongodb.net/campusx
+
+  # ============================================================
+  # 2. CampusX Python AI Microservice (FastAPI + Scikit-Learn)
+  # ============================================================
+  - type: web
+    name: campusx-ai
+    env: python
+    plan: free
+    region: oregon
+    rootDir: ai-service
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9

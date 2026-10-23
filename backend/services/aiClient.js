@@ -22,8 +22,9 @@ function postSync(endpoint, payload, timeoutMs = 1500) {
     const jsonStr = JSON.stringify(payload);
     const timeoutSec = (timeoutMs / 1000).toString();
     const baseUrl = getBaseUrl();
+    const curlCmd = process.platform === 'win32' ? 'curl.exe' : 'curl';
 
-    const res = spawnSync('curl.exe', [
+    const res = spawnSync(curlCmd, [
       '-s',
       '-X', 'POST',
       `${baseUrl}${endpoint}`,
@@ -56,7 +57,8 @@ function postSync(endpoint, payload, timeoutMs = 1500) {
 function isAIServiceHealthy() {
   try {
     const baseUrl = getBaseUrl();
-    const res = spawnSync('curl.exe', [
+    const curlCmd = process.platform === 'win32' ? 'curl.exe' : 'curl';
+    const res = spawnSync(curlCmd, [
       '-s',
       '--max-time', '1.0',
       `${baseUrl}/health`,
