@@ -7,7 +7,7 @@ services:
     env: node
     plan: free
     region: oregon
-    buildCommand: npm run build:all
+    buildCommand: npm run build
     startCommand: npm start
     healthCheckPath: /api/health
     envVars:
@@ -20,9 +20,6 @@ services:
           type: web
           name: campusx-ai
           property: host
-      # To persist data permanently, add your free MongoDB Atlas connection string:
-      # - key: MONGODB_URI
-      #   value: mongodb+srv://<user>:<password>@cluster.mongodb.net/campusx
 
   # ============================================================
   # 2. CampusX Python AI Microservice (FastAPI + Scikit-Learn)
