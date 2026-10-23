@@ -1,0 +1,13 @@
+{
+  "name": "campusx-root",
+  "version": "1.0.0",
+  "description": "CampusX Smart Campus Operations Platform",
+  "scripts": {
+    "seed": "npm --prefix backend run seed",
+    "server": "npm --prefix backend start",
+    "client": "npm --prefix frontend dev"
+  },
+  "keywords": ["campusx", "operations", "mern"],
+  "author": "",
+  "license": "ISC"
+}

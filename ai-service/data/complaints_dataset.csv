@@ -1,0 +1,273 @@
+title,description,location,category,priority,department,affected_users,is_hazard
+Wi-Fi not connecting in Central Library,Student laptop unable to authenticate on LPU-Campus-WiFi on 2nd floor reading hall.,Block 13 (Central Library),Network,High,IT Services,120,0
+Request for repair: Wi-Fi not connecting in Central Library,Student laptop unable to authenticate on LPU-Campus-WiFi on 2nd floor reading hall.,Block 32 - Room 241,Network,High,IT Services,117,0
+Defective Wi-Fi not connecting in Central Library,Student laptop unable to authenticate on LPU-Campus-WiFi on 2nd floor reading hall.,Block 34 - Room 153,Network,High,IT Services,131,0
+Request for repair: Wi-Fi not connecting in Central Library,Student laptop unable to authenticate on LPU-Campus-WiFi on 2nd floor reading hall.,Block 25 (Auditorium & Administration) - Room 317,Network,High,IT Services,111,0
+Slow internet connectivity during online lab test,Bandwidth throttling and high ping causing test timeouts.,Block 34 - CSE Lab 02,Network,High,IT Services,60,0
+Urgent: Slow internet connectivity during online lab test,Bandwidth throttling and high ping causing test timeouts.,Block 34 - CSE Lab 01,Network,High,IT Services,56,0
+Defective Slow internet connectivity during online lab test,Bandwidth throttling and high ping causing test timeouts.,Block 34 - CSE Lab 05,Network,High,IT Services,69,0
+Urgent: Slow internet connectivity during online lab test,Bandwidth throttling and high ping causing test timeouts.,Block 34 - CSE Lab 05,Network,High,IT Services,56,0
+Hostel room LAN socket disconnected,RJ45 port pins are bent and ethernet cable does not lock in place.,BH-3 - Room 412,Network,Medium,IT Services,2,0
+Issue reported: Hostel room LAN socket disconnected,RJ45 port pins are bent and ethernet cable does not lock in place.,BH-4 - Room 330,Network,Medium,IT Services,10,0
+Assistance needed: Hostel room LAN socket disconnected,RJ45 port pins are bent and ethernet cable does not lock in place.,GH-5 - Room 104,Network,Medium,IT Services,16,0
+Problem with Hostel room LAN socket disconnected,RJ45 port pins are bent and ethernet cable does not lock in place.,GH-4 - Room 317,Network,Medium,IT Services,2,0
+Wi-Fi access point dead in corridor,The ceiling router shows no power LED and signal is completely absent.,GH-2 - 3rd Floor Wing A,Network,High,IT Services,45,0
+Assistance needed: Wi-Fi access point dead in corridor,The ceiling router shows no power LED and signal is completely absent.,BH-3 - Room 211,Network,High,IT Services,59,0
+Complaint regarding Wi-Fi access point dead in corridor,The ceiling router shows no power LED and signal is completely absent.,BH-2 - Room 148,Network,High,IT Services,47,0
+Request for repair: Wi-Fi access point dead in corridor,The ceiling router shows no power LED and signal is completely absent.,BH-6 - Room 277,Network,High,IT Services,54,0
+UMS portal unreachable over campus network,DNS resolution failing when trying to access the student dashboard portal.,Block 32 - Room 301,Network,High,IT Services,70,0
+Assistance needed: UMS portal unreachable over campus network,DNS resolution failing when trying to access the student dashboard portal.,Block 32 - Room 336,Network,High,IT Services,77,0
+Request for repair: UMS portal unreachable over campus network,DNS resolution failing when trying to access the student dashboard portal.,Block 56 - Room 141,Network,High,IT Services,77,0
+Assistance needed: UMS portal unreachable over campus network,DNS resolution failing when trying to access the student dashboard portal.,Block 29 (Law & Management) - Room 286,Network,High,IT Services,78,0
+Frequent packet drops on department switch,Intermittent disconnects on all wired terminals during class lecture.,Block 38 - Faculty Cabins,Network,Medium,IT Services,15,0
+Defective Frequent packet drops on department switch,Intermittent disconnects on all wired terminals during class lecture.,Block 33 - Room 124,Network,Medium,IT Services,26,0
+Defective Frequent packet drops on department switch,Intermittent disconnects on all wired terminals during class lecture.,Block 38 - Room 141,Network,Medium,IT Services,12,0
+Request for repair: Frequent packet drops on department switch,Intermittent disconnects on all wired terminals during class lecture.,Block 56 - Room 243,Network,Medium,IT Services,19,0
+Library e-resource database server timeout,Unable to fetch IEEE digital library journal articles from campus intranet.,Block 13 (Central Library),Network,Medium,IT Services,80,0
+Complaint regarding Library e-resource database server timeout,Unable to fetch IEEE digital library journal articles from campus intranet.,Block 34 - Room 290,Network,Medium,IT Services,81,0
+Defective Library e-resource database server timeout,Unable to fetch IEEE digital library journal articles from campus intranet.,Block 29 (Law & Management) - Room 237,Network,Medium,IT Services,92,0
+Request for repair: Library e-resource database server timeout,Unable to fetch IEEE digital library journal articles from campus intranet.,Block 25 (Auditorium & Administration) - Room 188,Network,Medium,IT Services,87,0
+Campus Wi-Fi login page redirect loop,Captive portal keeps refreshing without presenting the student credential form.,UniMall - Food Court,Network,Low,IT Services,150,0
+Defective Campus Wi-Fi login page redirect loop,Captive portal keeps refreshing without presenting the student credential form.,Block 34 - Room 337,Network,Low,IT Services,152,0
+Assistance needed: Campus Wi-Fi login page redirect loop,Captive portal keeps refreshing without presenting the student credential form.,Block 29 (Law & Management) - Room 386,Network,Low,IT Services,147,0
+Complaint regarding Campus Wi-Fi login page redirect loop,Captive portal keeps refreshing without presenting the student credential form.,Block 32 - Room 218,Network,Low,IT Services,141,0
+AC not cooling in 32-401 lecture theatre,Air conditioner blower runs but compressor does not cool; ambient temperature is above 38 degrees.,Block 32 - Room 401,Electrical,High,Maintenance/Electrical,80,0
+Complaint regarding AC not cooling in 32-401 lecture theatre,Air conditioner blower runs but compressor does not cool; ambient temperature is above 38 degrees.,Block 56 - Room 238,Electrical,High,Maintenance/Electrical,72,0
+Defective AC not cooling in 32-401 lecture theatre,Air conditioner blower runs but compressor does not cool; ambient temperature is above 38 degrees.,Block 25 (Auditorium & Administration) - Room 262,Electrical,High,Maintenance/Electrical,76,0
+AC not cooling in 32-401 lecture theatre,Air conditioner blower runs but compressor does not cool; ambient temperature is above 38 degrees.,Block 56 - Room 335,Electrical,High,Maintenance/Electrical,74,0
+Burning smell and sparks from switchboard,Electrical short circuit sparking actively from the wall socket; hazardous condition.,Block 34 - Room 215,Electrical,Critical,Maintenance/Electrical,60,1
+Assistance needed: Burning smell and sparks from switchboard,Electrical short circuit sparking actively from the wall socket; hazardous condition.,Block 34 - Room 227,Electrical,Critical,Maintenance/Electrical,73,1
+Issue reported: Burning smell and sparks from switchboard,Electrical short circuit sparking actively from the wall socket; hazardous condition.,Block 25 (Auditorium & Administration) - Room 305,Electrical,Critical,Maintenance/Electrical,57,1
+Problem with Burning smell and sparks from switchboard,Electrical short circuit sparking actively from the wall socket; hazardous condition.,Block 13 (Central Library) - Room 353,Electrical,High,Maintenance/Electrical,74,1
+Ceiling fan making loud grinding noise,Fan wobbles violently at speed 4 and 5; risk of detachment.,BH-1 - Room 204,Electrical,High,Maintenance/Electrical,3,1
+Urgent: Ceiling fan making loud grinding noise,Fan wobbles violently at speed 4 and 5; risk of detachment.,GH-6 - Room 157,Electrical,High,Maintenance/Electrical,13,1
+Problem with Ceiling fan making loud grinding noise,Fan wobbles violently at speed 4 and 5; risk of detachment.,GH-5 - Room 449,Electrical,Critical,Maintenance/Electrical,12,1
+Request for repair: Ceiling fan making loud grinding noise,Fan wobbles violently at speed 4 and 5; risk of detachment.,BH-7 - Room 296,Electrical,Critical,Maintenance/Electrical,9,1
+Fluorescent tube light flickering continuously,Blinking tube light in study room causing eye strain and headache.,GH-4 - Study Room,Electrical,Low,Maintenance/Electrical,12,0
+Assistance needed: Fluorescent tube light flickering continuously,Blinking tube light in study room causing eye strain and headache.,GH-1 - Room 106,Electrical,Low,Maintenance/Electrical,23,0
+Request for repair: Fluorescent tube light flickering continuously,Blinking tube light in study room causing eye strain and headache.,GH-3 - Room 375,Electrical,Low,Maintenance/Electrical,26,0
+Assistance needed: Fluorescent tube light flickering continuously,Blinking tube light in study room causing eye strain and headache.,GH-5 - Room 429,Electrical,Low,Maintenance/Electrical,12,0
+Power socket burnt and dead in lab bench,Plug point has black soot and does not deliver voltage to monitor.,Block 34 - CSE Lab 04,Electrical,Medium,Maintenance/Electrical,40,1
+Request for repair: Power socket burnt and dead in lab bench,Plug point has black soot and does not deliver voltage to monitor.,Block 34 - CSE Lab 03,Electrical,Critical,Maintenance/Electrical,35,1
+Power socket burnt and dead in lab bench,Plug point has black soot and does not deliver voltage to monitor.,Block 34 - CSE Lab 01,Electrical,Critical,Maintenance/Electrical,46,1
+Problem with Power socket burnt and dead in lab bench,Plug point has black soot and does not deliver voltage to monitor.,Block 34 - CSE Lab 05,Electrical,High,Maintenance/Electrical,50,1
+Entire floor MCB tripped in hostel,Power outage across all rooms in wing B after overload.,BH-5 - 2nd Floor Wing B,Electrical,High,Maintenance/Electrical,90,0
+Assistance needed: Entire floor MCB tripped in hostel,Power outage across all rooms in wing B after overload.,GH-6 - Room 428,Electrical,High,Maintenance/Electrical,96,0
+Defective Entire floor MCB tripped in hostel,Power outage across all rooms in wing B after overload.,BH-3 - Room 292,Electrical,High,Maintenance/Electrical,104,0
+Problem with Entire floor MCB tripped in hostel,Power outage across all rooms in wing B after overload.,GH-1 - Room 499,Electrical,High,Maintenance/Electrical,96,0
+Exhaust fan stopped working in chemistry lab,Vapour extraction failure posing mild chemical inhalation concern.,Block 36 - Lab 102,Electrical,Critical,Maintenance/Electrical,35,1
+Urgent: Exhaust fan stopped working in chemistry lab,Vapour extraction failure posing mild chemical inhalation concern.,Block 34 - CSE Lab 05,Electrical,Critical,Maintenance/Electrical,40,1
+Urgent: Exhaust fan stopped working in chemistry lab,Vapour extraction failure posing mild chemical inhalation concern.,Block 34 - CSE Lab 01,Electrical,Critical,Maintenance/Electrical,50,1
+Assistance needed: Exhaust fan stopped working in chemistry lab,Vapour extraction failure posing mild chemical inhalation concern.,Block 34 - CSE Lab 02,Electrical,High,Maintenance/Electrical,32,1
+Outdoor floodlight off near hostel pathway,Dark stretch of walkway between Block 55 and BH-4 at night.,Block 55 - Pathway,Electrical,High,Maintenance/Electrical,200,0
+Request for repair: Outdoor floodlight off near hostel pathway,Dark stretch of walkway between Block 55 and BH-4 at night.,Block 33 - Room 349,Electrical,High,Maintenance/Electrical,192,0
+Problem with Outdoor floodlight off near hostel pathway,Dark stretch of walkway between Block 55 and BH-4 at night.,Block 34 - Room 344,Electrical,High,Maintenance/Electrical,207,0
+Problem with Outdoor floodlight off near hostel pathway,Dark stretch of walkway between Block 55 and BH-4 at night.,Block 38 - Room 371,Electrical,High,Maintenance/Electrical,209,0
+Projector in CSE Lab 3 keeps restarting,EPSON projector shuts off after 5 minutes and red lamp warning LED blinks.,Block 34 - CSE Lab 03,Equipment,High,IT Services,55,0
+Issue reported: Projector in CSE Lab 3 keeps restarting,EPSON projector shuts off after 5 minutes and red lamp warning LED blinks.,Block 34 - CSE Lab 02,Equipment,High,IT Services,62,0
+Defective Projector in CSE Lab 3 keeps restarting,EPSON projector shuts off after 5 minutes and red lamp warning LED blinks.,Block 34 - CSE Lab 06,Equipment,High,IT Services,54,0
+Issue reported: Projector in CSE Lab 3 keeps restarting,EPSON projector shuts off after 5 minutes and red lamp warning LED blinks.,Block 34 - CSE Lab 06,Equipment,High,IT Services,65,0
+Wireless mic static noise in Seminar Hall 32,Audio receiver emits deafening screeching feedback during guest speech.,Block 32 - Acoustic Seminar Hall,Equipment,High,IT Services,180,0
+Complaint regarding Wireless mic static noise in Seminar Hall 32,Audio receiver emits deafening screeching feedback during guest speech.,UniMall - Room 365,Equipment,High,IT Services,184,0
+Request for repair: Wireless mic static noise in Seminar Hall 32,Audio receiver emits deafening screeching feedback during guest speech.,Block 36 - Room 216,Equipment,High,IT Services,172,0
+Complaint regarding Wireless mic static noise in Seminar Hall 32,Audio receiver emits deafening screeching feedback during guest speech.,Block 32 - Room 402,Equipment,High,IT Services,187,0
+Computer system PC-501 blue screen on boot,Lab workstation displays kernel crash error and fails to boot into Windows/Linux.,Block 34 - CSE Lab 01,Equipment,Medium,IT Services,1,0
+Defective Computer system PC-501 blue screen on boot,Lab workstation displays kernel crash error and fails to boot into Windows/Linux.,Block 34 - CSE Lab 05,Equipment,Medium,IT Services,1,0
+Urgent: Computer system PC-501 blue screen on boot,Lab workstation displays kernel crash error and fails to boot into Windows/Linux.,Block 34 - CSE Lab 01,Equipment,Medium,IT Services,13,0
+Urgent: Computer system PC-501 blue screen on boot,Lab workstation displays kernel crash error and fails to boot into Windows/Linux.,Block 34 - CSE Lab 02,Equipment,Medium,IT Services,1,0
+HDMI wall port damaged in lecture room,"Pins inside HDMI female receptacle are bent, preventing presentation projection.",Block 33 - Room 108,Equipment,Medium,IT Services,65,0
+Urgent: HDMI wall port damaged in lecture room,"Pins inside HDMI female receptacle are bent, preventing presentation projection.",Block 55 - Room 137,Equipment,Medium,IT Services,71,0
+Defective HDMI wall port damaged in lecture room,"Pins inside HDMI female receptacle are bent, preventing presentation projection.",Block 38 - Room 349,Equipment,Medium,IT Services,61,0
+Problem with HDMI wall port damaged in lecture room,"Pins inside HDMI female receptacle are bent, preventing presentation projection.",Block 25 (Auditorium & Administration) - Room 396,Equipment,Medium,IT Services,70,0
+Laser printer paper jam and roller squeak,Department printer crumples A4 sheets and displays error code E-04.,Block 25 - Admin Office,Equipment,Low,IT Services,20,0
+Defective Laser printer paper jam and roller squeak,Department printer crumples A4 sheets and displays error code E-04.,UniMall - Room 309,Equipment,Low,IT Services,16,0
+Request for repair: Laser printer paper jam and roller squeak,Department printer crumples A4 sheets and displays error code E-04.,Block 33 - Room 321,Equipment,Low,IT Services,21,0
+Issue reported: Laser printer paper jam and roller squeak,Department printer crumples A4 sheets and displays error code E-04.,Block 56 - Room 340,Equipment,Low,IT Services,33,0
+Auditorium stage motorized screen not descending,Remote control and wall switch fail to trigger the motorized projection canvas.,Block 25 (Auditorium),Equipment,High,IT Services,500,0
+Urgent: Auditorium stage motorized screen not descending,Remote control and wall switch fail to trigger the motorized projection canvas.,Block 29 (Law & Management) - Room 151,Equipment,High,IT Services,491,0
+Issue reported: Auditorium stage motorized screen not descending,Remote control and wall switch fail to trigger the motorized projection canvas.,Block 55 - Room 156,Equipment,High,IT Services,497,0
+Defective Auditorium stage motorized screen not descending,Remote control and wall switch fail to trigger the motorized projection canvas.,Block 36 - Room 375,Equipment,High,IT Services,504,0
+Smart interactive whiteboard touch calibration offset,Stylus registers clicks 5 inches to the left of contact point.,Block 38 - Smart Classroom,Equipment,Medium,IT Services,45,0
+Problem with Smart interactive whiteboard touch calibration offset,Stylus registers clicks 5 inches to the left of contact point.,Block 56 - Room 194,Equipment,Medium,IT Services,43,0
+Smart interactive whiteboard touch calibration offset,Stylus registers clicks 5 inches to the left of contact point.,Block 36 - Room 139,Equipment,Medium,IT Services,49,0
+Request for repair: Smart interactive whiteboard touch calibration offset,Stylus registers clicks 5 inches to the left of contact point.,Block 32 - Room 377,Equipment,Medium,IT Services,35,0
+Desktop keyboard missing spacebar in terminal 22,Keys missing on lab computer making coding assignment submission difficult.,Block 34 - CSE Lab 06,Equipment,Low,IT Services,1,0
+Request for repair: Desktop keyboard missing spacebar in terminal 22,Keys missing on lab computer making coding assignment submission difficult.,Block 34 - CSE Lab 02,Equipment,Low,IT Services,1,0
+Issue reported: Desktop keyboard missing spacebar in terminal 22,Keys missing on lab computer making coding assignment submission difficult.,Block 34 - CSE Lab 04,Equipment,Low,IT Services,6,0
+Defective Desktop keyboard missing spacebar in terminal 22,Keys missing on lab computer making coding assignment submission difficult.,Block 34 - CSE Lab 04,Equipment,Low,IT Services,1,0
+Leaking tap in Boys Hostel Block 4 washroom,"Water continuously flowing and splashing on floor, wasting gallons of water.",BH-4 - 1st Floor Washroom,Plumbing,Medium,Maintenance/Electrical,40,0
+Problem with Leaking tap in Boys Hostel Block 4 washroom,"Water continuously flowing and splashing on floor, wasting gallons of water.",BH-7 - Room 102,Plumbing,Medium,Maintenance/Electrical,42,0
+Assistance needed: Leaking tap in Boys Hostel Block 4 washroom,"Water continuously flowing and splashing on floor, wasting gallons of water.",GH-5 - Room 502,Plumbing,Medium,Maintenance/Electrical,44,0
+Assistance needed: Leaking tap in Boys Hostel Block 4 washroom,"Water continuously flowing and splashing on floor, wasting gallons of water.",BH-7 - Room 457,Plumbing,Medium,Maintenance/Electrical,53,0
+Severely clogged toilet flush in Block 34,"Water overflowing onto bathroom floor, unhygienic condition.",Block 34 - Ground Floor Restroom,Plumbing,Critical,Maintenance/Electrical,150,1
+Severely clogged toilet flush in Block 34,"Water overflowing onto bathroom floor, unhygienic condition.",Block 34 - Room 198,Plumbing,Critical,Maintenance/Electrical,146,1
+Urgent: Severely clogged toilet flush in Block 34,"Water overflowing onto bathroom floor, unhygienic condition.",Block 25 (Auditorium & Administration) - Room 378,Plumbing,High,Maintenance/Electrical,163,1
+Complaint regarding Severely clogged toilet flush in Block 34,"Water overflowing onto bathroom floor, unhygienic condition.",Block 32 - Room 126,Plumbing,Critical,Maintenance/Electrical,156,1
+Drinking water cooler filtration indicator red,Water taste is metallic and sediment filter light is flashing.,Block 32 - 2nd Floor Corridor,Plumbing,High,Maintenance/Electrical,100,0
+Problem with Drinking water cooler filtration indicator red,Water taste is metallic and sediment filter light is flashing.,Block 32 - Room 361,Plumbing,High,Maintenance/Electrical,92,0
+Problem with Drinking water cooler filtration indicator red,Water taste is metallic and sediment filter light is flashing.,Block 33 - Room 405,Plumbing,High,Maintenance/Electrical,92,0
+Defective Drinking water cooler filtration indicator red,Water taste is metallic and sediment filter light is flashing.,Block 56 - Room 162,Plumbing,High,Maintenance/Electrical,108,0
+Geyser not heating water in girls hostel,Hot water supply inactive on top floor during cold winter morning.,GH-1 - 4th Floor Bathrooms,Plumbing,High,Maintenance/Electrical,50,0
+Defective Geyser not heating water in girls hostel,Hot water supply inactive on top floor during cold winter morning.,GH-2 - Room 405,Plumbing,High,Maintenance/Electrical,41,0
+Request for repair: Geyser not heating water in girls hostel,Hot water supply inactive on top floor during cold winter morning.,BH-7 - Room 437,Plumbing,High,Maintenance/Electrical,58,0
+Complaint regarding Geyser not heating water in girls hostel,Hot water supply inactive on top floor during cold winter morning.,BH-5 - Room 205,Plumbing,High,Maintenance/Electrical,61,0
+Overhead tank pipe leakage spraying onto staircase,PVC joint cracked on roof line dripping heavily into stairwell.,Block 36 - Staircase Landing,Plumbing,High,Maintenance/Electrical,80,1
+Complaint regarding Overhead tank pipe leakage spraying onto staircase,PVC joint cracked on roof line dripping heavily into stairwell.,Block 36 - Room 236,Plumbing,Critical,Maintenance/Electrical,74,1
+Assistance needed: Overhead tank pipe leakage spraying onto staircase,PVC joint cracked on roof line dripping heavily into stairwell.,UniMall - Room 262,Plumbing,High,Maintenance/Electrical,70,1
+Overhead tank pipe leakage spraying onto staircase,PVC joint cracked on roof line dripping heavily into stairwell.,Block 25 (Auditorium & Administration) - Room 389,Plumbing,High,Maintenance/Electrical,72,1
+Washbasin drain pipe detached under counter,Grey water dumps directly onto floor when tap is opened.,BH-6 - Mess Handwash Station,Plumbing,Medium,Maintenance/Electrical,200,0
+Defective Washbasin drain pipe detached under counter,Grey water dumps directly onto floor when tap is opened.,GH-1 - Room 236,Plumbing,Medium,Maintenance/Electrical,194,0
+Complaint regarding Washbasin drain pipe detached under counter,Grey water dumps directly onto floor when tap is opened.,BH-2 - Room 226,Plumbing,Medium,Maintenance/Electrical,201,0
+Assistance needed: Washbasin drain pipe detached under counter,Grey water dumps directly onto floor when tap is opened.,BH-3 - Room 325,Plumbing,Medium,Maintenance/Electrical,207,0
+Low water pressure on upper hostel floors,Taps producing only a trickle during morning peak hours (7:30 - 9:00 AM).,BH-2 - 5th Floor,Plumbing,High,Maintenance/Electrical,65,0
+Assistance needed: Low water pressure on upper hostel floors,Taps producing only a trickle during morning peak hours (7:30 - 9:00 AM).,GH-2 - Room 514,Plumbing,High,Maintenance/Electrical,75,0
+Urgent: Low water pressure on upper hostel floors,Taps producing only a trickle during morning peak hours (7:30 - 9:00 AM).,GH-3 - Room 519,Plumbing,High,Maintenance/Electrical,72,0
+Assistance needed: Low water pressure on upper hostel floors,Taps producing only a trickle during morning peak hours (7:30 - 9:00 AM).,GH-3 - Room 154,Plumbing,High,Maintenance/Electrical,59,0
+Sewage odor emerging from ground floor drain,Backflow smell in corridor near faculty lounge.,Block 29 - Ground Floor,Plumbing,Medium,Maintenance/Electrical,40,0
+Assistance needed: Sewage odor emerging from ground floor drain,Backflow smell in corridor near faculty lounge.,Block 33 - Room 155,Plumbing,Medium,Maintenance/Electrical,53,0
+Problem with Sewage odor emerging from ground floor drain,Backflow smell in corridor near faculty lounge.,Block 38 - Room 245,Plumbing,Medium,Maintenance/Electrical,49,0
+Defective Sewage odor emerging from ground floor drain,Backflow smell in corridor near faculty lounge.,Block 55 - Room 205,Plumbing,Medium,Maintenance/Electrical,51,0
+Dustbins overflowing near food court at UniMall,"Food packets, disposable cups, and plastic wrappers scattered around tables.",UniMall - Food Court,Cleanliness,Medium,Housekeeping,300,0
+Assistance needed: Dustbins overflowing near food court at UniMall,"Food packets, disposable cups, and plastic wrappers scattered around tables.",Block 13 (Central Library) - Room 351,Cleanliness,Medium,Housekeeping,298,0
+Urgent: Dustbins overflowing near food court at UniMall,"Food packets, disposable cups, and plastic wrappers scattered around tables.",Block 33 - Room 317,Cleanliness,Medium,Housekeeping,298,0
+Urgent: Dustbins overflowing near food court at UniMall,"Food packets, disposable cups, and plastic wrappers scattered around tables.",Block 32 - Room 271,Cleanliness,Medium,Housekeeping,314,0
+Classroom floor covered in mud after rain,Wet footprints and debris throughout the aisles between desks.,Block 32 - Room 104,Cleanliness,Low,Housekeeping,70,0
+Problem with Classroom floor covered in mud after rain,Wet footprints and debris throughout the aisles between desks.,Block 29 (Law & Management) - Room 235,Cleanliness,Low,Housekeeping,65,0
+Classroom floor covered in mud after rain,Wet footprints and debris throughout the aisles between desks.,Block 13 (Central Library) - Room 319,Cleanliness,Low,Housekeeping,77,0
+Urgent: Classroom floor covered in mud after rain,Wet footprints and debris throughout the aisles between desks.,Block 33 - Room 139,Cleanliness,Low,Housekeeping,82,0
+Spilled coffee and stains on seminar carpet,Dark beverage spill on stage presentation area.,Block 32 - Seminar Hall,Cleanliness,Low,Housekeeping,150,0
+Problem with Spilled coffee and stains on seminar carpet,Dark beverage spill on stage presentation area.,Block 13 (Central Library) - Room 119,Cleanliness,Low,Housekeeping,151,0
+Problem with Spilled coffee and stains on seminar carpet,Dark beverage spill on stage presentation area.,Block 56 - Room 166,Cleanliness,Low,Housekeeping,141,0
+Assistance needed: Spilled coffee and stains on seminar carpet,Dark beverage spill on stage presentation area.,Block 55 - Room 121,Cleanliness,Low,Housekeeping,151,0
+Hostel mess dining tables sticky and uncleaned,Food residues left behind after lunch service.,BH-7 - Dining Hall,Cleanliness,Medium,Housekeeping,250,0
+Defective Hostel mess dining tables sticky and uncleaned,Food residues left behind after lunch service.,GH-3 - Room 228,Cleanliness,Medium,Housekeeping,261,0
+Request for repair: Hostel mess dining tables sticky and uncleaned,Food residues left behind after lunch service.,BH-6 - Room 500,Cleanliness,Medium,Housekeeping,257,0
+Issue reported: Hostel mess dining tables sticky and uncleaned,Food residues left behind after lunch service.,GH-2 - Room 484,Cleanliness,Medium,Housekeeping,244,0
+Washroom mirrors and tiles grimy and soiled,Regular housekeeping missed morning cleaning schedule.,Block 38 - 3rd Floor Restroom,Cleanliness,Low,Housekeeping,80,0
+Defective Washroom mirrors and tiles grimy and soiled,Regular housekeeping missed morning cleaning schedule.,Block 34 - Room 191,Cleanliness,Low,Housekeeping,83,0
+Urgent: Washroom mirrors and tiles grimy and soiled,Regular housekeeping missed morning cleaning schedule.,Block 34 - Room 271,Cleanliness,Low,Housekeeping,95,0
+Issue reported: Washroom mirrors and tiles grimy and soiled,Regular housekeeping missed morning cleaning schedule.,Block 29 (Law & Management) - Room 228,Cleanliness,Low,Housekeeping,78,0
+Pigeon droppings on window sills and AC ledge,Accumulated bird waste blowing into classroom through open window.,Block 34 - Room 310,Cleanliness,Low,Housekeeping,60,0
+Problem with Pigeon droppings on window sills and AC ledge,Accumulated bird waste blowing into classroom through open window.,Block 33 - Room 296,Cleanliness,Low,Housekeeping,51,0
+Pigeon droppings on window sills and AC ledge,Accumulated bird waste blowing into classroom through open window.,Block 36 - Room 203,Cleanliness,Low,Housekeeping,64,0
+Complaint regarding Pigeon droppings on window sills and AC ledge,Accumulated bird waste blowing into classroom through open window.,Block 38 - Room 217,Cleanliness,Low,Housekeeping,57,0
+Fallen tree leaves and paper litter blocking drain,Outdoor pathway accumulated dry leaves.,Block 56 - Sports Complex Walkway,Cleanliness,Low,Housekeeping,50,0
+Urgent: Fallen tree leaves and paper litter blocking drain,Outdoor pathway accumulated dry leaves.,Block 29 (Law & Management) - Room 199,Cleanliness,Low,Housekeeping,52,0
+Complaint regarding Fallen tree leaves and paper litter blocking drain,Outdoor pathway accumulated dry leaves.,Block 38 - Room 136,Cleanliness,Low,Housekeeping,64,0
+Assistance needed: Fallen tree leaves and paper litter blocking drain,Outdoor pathway accumulated dry leaves.,Block 55 - Room 361,Cleanliness,Low,Housekeeping,52,0
+Broken chair in seminar hall,Armrest and back support fractured; sharp metal edge exposed.,Block 32 - Acoustic Seminar Hall,Civil,Medium,Maintenance/Electrical,180,1
+Complaint regarding Broken chair in seminar hall,Armrest and back support fractured; sharp metal edge exposed.,Block 32 - Room 160,Civil,Critical,Maintenance/Electrical,175,1
+Assistance needed: Broken chair in seminar hall,Armrest and back support fractured; sharp metal edge exposed.,Block 32 - Room 156,Civil,Critical,Maintenance/Electrical,181,1
+Complaint regarding Broken chair in seminar hall,Armrest and back support fractured; sharp metal edge exposed.,Block 56 - Room 411,Civil,High,Maintenance/Electrical,182,1
+Door lock latch jammed in BH-2 hostel room,Students trapped inside room 314 due to failed internal lock tumbler mechanism.,BH-2 - Room 314,Civil,Critical,Maintenance/Electrical,3,1
+Defective Door lock latch jammed in BH-2 hostel room,Students trapped inside room 314 due to failed internal lock tumbler mechanism.,BH-5 - Room 123,Civil,Critical,Maintenance/Electrical,1,1
+Defective Door lock latch jammed in BH-2 hostel room,Students trapped inside room 314 due to failed internal lock tumbler mechanism.,BH-6 - Room 321,Civil,High,Maintenance/Electrical,14,1
+Complaint regarding Door lock latch jammed in BH-2 hostel room,Students trapped inside room 314 due to failed internal lock tumbler mechanism.,GH-2 - Room 261,Civil,High,Maintenance/Electrical,16,1
+Ceiling plaster peeling and falling in chunks,Chunks of concrete plaster dropped onto empty student desk.,Block 33 - Room 202,Civil,Critical,Maintenance/Electrical,50,1
+Assistance needed: Ceiling plaster peeling and falling in chunks,Chunks of concrete plaster dropped onto empty student desk.,Block 13 (Central Library) - Room 259,Civil,Critical,Maintenance/Electrical,50,1
+Issue reported: Ceiling plaster peeling and falling in chunks,Chunks of concrete plaster dropped onto empty student desk.,Block 38 - Room 384,Civil,High,Maintenance/Electrical,46,1
+Issue reported: Ceiling plaster peeling and falling in chunks,Chunks of concrete plaster dropped onto empty student desk.,Block 29 (Law & Management) - Room 295,Civil,High,Maintenance/Electrical,59,1
+Cracked floor tile in sports arena causing tripping hazard,Sharp ceramic edge protruding 2cm above adjoining tile.,Block 55 - Badminton Arena,Civil,High,Maintenance/Electrical,120,1
+Assistance needed: Cracked floor tile in sports arena causing tripping hazard,Sharp ceramic edge protruding 2cm above adjoining tile.,Block 56 - Room 381,Civil,High,Maintenance/Electrical,119,1
+Assistance needed: Cracked floor tile in sports arena causing tripping hazard,Sharp ceramic edge protruding 2cm above adjoining tile.,Block 36 - Room 321,Civil,Critical,Maintenance/Electrical,124,1
+Cracked floor tile in sports arena causing tripping hazard,Sharp ceramic edge protruding 2cm above adjoining tile.,UniMall - Room 210,Civil,Critical,Maintenance/Electrical,135,1
+Window glass pane cracked and rattling in wind,Large diagonal fissure across external glass window on 4th floor.,Block 34 - Room 418,Civil,High,Maintenance/Electrical,40,1
+Problem with Window glass pane cracked and rattling in wind,Large diagonal fissure across external glass window on 4th floor.,Block 29 (Law & Management) - Room 144,Civil,Critical,Maintenance/Electrical,46,1
+Complaint regarding Window glass pane cracked and rattling in wind,Large diagonal fissure across external glass window on 4th floor.,Block 33 - Room 221,Civil,Critical,Maintenance/Electrical,37,1
+Defective Window glass pane cracked and rattling in wind,Large diagonal fissure across external glass window on 4th floor.,Block 34 - Room 113,Civil,High,Maintenance/Electrical,37,1
+Staircase railing handrail loose and detached,Welded steel stanchion wobbles when pressure is applied.,Block 38 - North Stairwell,Civil,High,Maintenance/Electrical,200,1
+Staircase railing handrail loose and detached,Welded steel stanchion wobbles when pressure is applied.,Block 25 (Auditorium & Administration) - Room 138,Civil,Critical,Maintenance/Electrical,203,1
+Defective Staircase railing handrail loose and detached,Welded steel stanchion wobbles when pressure is applied.,Block 56 - Room 354,Civil,Critical,Maintenance/Electrical,197,1
+Problem with Staircase railing handrail loose and detached,Welded steel stanchion wobbles when pressure is applied.,Block 29 (Law & Management) - Room 103,Civil,High,Maintenance/Electrical,214,1
+Wooden podium hinge snapped in auditorium,Presentation lectern unstable and cannot support laptop.,Block 25 (Auditorium),Civil,Low,Maintenance/Electrical,250,0
+Issue reported: Wooden podium hinge snapped in auditorium,Presentation lectern unstable and cannot support laptop.,Block 36 - Room 191,Civil,Low,Maintenance/Electrical,265,0
+Wooden podium hinge snapped in auditorium,Presentation lectern unstable and cannot support laptop.,Block 32 - Room 386,Civil,Low,Maintenance/Electrical,247,0
+Request for repair: Wooden podium hinge snapped in auditorium,Presentation lectern unstable and cannot support laptop.,UniMall - Room 169,Civil,Low,Maintenance/Electrical,265,0
+GCC compiler and Python environment broken on CSE Lab 01,Students unable to execute coursework due to path environment corruption.,Block 34 - CSE Lab 01,Academic Labs,High,School of Computer Science & Engineering,60,0
+GCC compiler and Python environment broken on CSE Lab 01,Students unable to execute coursework due to path environment corruption.,Block 34 - CSE Lab 06,Academic Labs,High,School of Computer Science & Engineering,66,0
+Complaint regarding GCC compiler and Python environment broken on CSE Lab 01,Students unable to execute coursework due to path environment corruption.,Block 34 - CSE Lab 04,Academic Labs,High,School of Computer Science & Engineering,69,0
+Issue reported: GCC compiler and Python environment broken on CSE Lab 01,Students unable to execute coursework due to path environment corruption.,Block 34 - CSE Lab 05,Academic Labs,High,School of Computer Science & Engineering,64,0
+MATLAB license server error on all terminals,"Toolbox validation fails with error -96, license expired.",Block 34 - CSE Lab 05,Academic Labs,High,School of Computer Science & Engineering,45,0
+Problem with MATLAB license server error on all terminals,"Toolbox validation fails with error -96, license expired.",Block 34 - CSE Lab 06,Academic Labs,High,School of Computer Science & Engineering,50,0
+MATLAB license server error on all terminals,"Toolbox validation fails with error -96, license expired.",Block 34 - CSE Lab 03,Academic Labs,High,School of Computer Science & Engineering,59,0
+Defective MATLAB license server error on all terminals,"Toolbox validation fails with error -96, license expired.",Block 34 - CSE Lab 06,Academic Labs,High,School of Computer Science & Engineering,43,0
+Oscilloscope probe missing in electronics workstation,BNC cable and grounding clip removed from bench 12.,Block 36 - Hardware Lab,Academic Labs,Low,School of Computer Science & Engineering,2,0
+Oscilloscope probe missing in electronics workstation,BNC cable and grounding clip removed from bench 12.,Block 34 - CSE Lab 06,Academic Labs,Low,School of Computer Science & Engineering,1,0
+Assistance needed: Oscilloscope probe missing in electronics workstation,BNC cable and grounding clip removed from bench 12.,Block 34 - CSE Lab 04,Academic Labs,Low,School of Computer Science & Engineering,1,0
+Assistance needed: Oscilloscope probe missing in electronics workstation,BNC cable and grounding clip removed from bench 12.,Block 34 - CSE Lab 02,Academic Labs,Low,School of Computer Science & Engineering,1,0
+Network simulator packet tracer crash on launch,Software terminates with segmentation fault on Linux distro.,Block 34 - CSE Lab 03,Academic Labs,Medium,School of Computer Science & Engineering,55,0
+Complaint regarding Network simulator packet tracer crash on launch,Software terminates with segmentation fault on Linux distro.,Block 34 - CSE Lab 03,Academic Labs,Medium,School of Computer Science & Engineering,62,0
+Request for repair: Network simulator packet tracer crash on launch,Software terminates with segmentation fault on Linux distro.,Block 34 - CSE Lab 02,Academic Labs,Medium,School of Computer Science & Engineering,49,0
+Defective Network simulator packet tracer crash on launch,Software terminates with segmentation fault on Linux distro.,Block 34 - CSE Lab 04,Academic Labs,Medium,School of Computer Science & Engineering,67,0
+Microcontroller development boards not detected over USB,FTDI driver missing after lab system re-image.,Block 36 - Embedded Systems Lab,Academic Labs,High,School of Computer Science & Engineering,30,0
+Problem with Microcontroller development boards not detected over USB,FTDI driver missing after lab system re-image.,Block 34 - CSE Lab 06,Academic Labs,High,School of Computer Science & Engineering,26,0
+Request for repair: Microcontroller development boards not detected over USB,FTDI driver missing after lab system re-image.,Block 34 - CSE Lab 04,Academic Labs,High,School of Computer Science & Engineering,33,0
+Complaint regarding Microcontroller development boards not detected over USB,FTDI driver missing after lab system re-image.,Block 34 - CSE Lab 05,Academic Labs,High,School of Computer Science & Engineering,34,0
+Almirah cupboard door hinge dislocated,Heavy metal wardrobe door hanging by single bottom screw.,BH-8 - Room 102,Hostel,Medium,Hostel Administration,2,0
+Issue reported: Almirah cupboard door hinge dislocated,Heavy metal wardrobe door hanging by single bottom screw.,BH-1 - Room 206,Hostel,Medium,Hostel Administration,5,0
+Issue reported: Almirah cupboard door hinge dislocated,Heavy metal wardrobe door hanging by single bottom screw.,GH-5 - Room 400,Hostel,Medium,Hostel Administration,14,0
+Urgent: Almirah cupboard door hinge dislocated,Heavy metal wardrobe door hanging by single bottom screw.,GH-6 - Room 492,Hostel,Medium,Hostel Administration,10,0
+Mattress worn out with protruding metal spring,Bed spring piercing through fabric causing skin injury risk.,GH-3 - Room 215,Hostel,Medium,Hostel Administration,1,1
+Issue reported: Mattress worn out with protruding metal spring,Bed spring piercing through fabric causing skin injury risk.,BH-8 - Room 104,Hostel,Critical,Hostel Administration,1,1
+Issue reported: Mattress worn out with protruding metal spring,Bed spring piercing through fabric causing skin injury risk.,GH-6 - Room 315,Hostel,High,Hostel Administration,6,1
+Defective Mattress worn out with protruding metal spring,Bed spring piercing through fabric causing skin injury risk.,BH-5 - Room 324,Hostel,Critical,Hostel Administration,1,1
+Room door key duplicated by previous occupant,Lock cylinder replacement requested for room safety and privacy.,BH-1 - Room 502,Hostel,High,Hostel Administration,2,0
+Issue reported: Room door key duplicated by previous occupant,Lock cylinder replacement requested for room safety and privacy.,BH-6 - Room 443,Hostel,High,Hostel Administration,13,0
+Issue reported: Room door key duplicated by previous occupant,Lock cylinder replacement requested for room safety and privacy.,GH-4 - Room 185,Hostel,High,Hostel Administration,6,0
+Problem with Room door key duplicated by previous occupant,Lock cylinder replacement requested for room safety and privacy.,GH-2 - Room 374,Hostel,High,Hostel Administration,1,0
+Curtain rod fell down from bracket,Curtain rail detached from plaster wall.,GH-5 - Room 309,Hostel,Low,Hostel Administration,2,0
+Issue reported: Curtain rod fell down from bracket,Curtain rail detached from plaster wall.,GH-2 - Room 389,Hostel,Low,Hostel Administration,13,0
+Urgent: Curtain rod fell down from bracket,Curtain rail detached from plaster wall.,BH-2 - Room 430,Hostel,Low,Hostel Administration,5,0
+Problem with Curtain rod fell down from bracket,Curtain rail detached from plaster wall.,GH-6 - Room 337,Hostel,Low,Hostel Administration,1,0
+Warden signature required for emergency medical leave,Parent consent verified but warden unavailable at hostel office.,BH-4 - Hostel Office,Hostel,High,Hostel Administration,1,0
+Urgent: Warden signature required for emergency medical leave,Parent consent verified but warden unavailable at hostel office.,BH-5 - Room 295,Hostel,High,Hostel Administration,1,0
+Defective Warden signature required for emergency medical leave,Parent consent verified but warden unavailable at hostel office.,BH-8 - Room 268,Hostel,High,Hostel Administration,1,0
+Issue reported: Warden signature required for emergency medical leave,Parent consent verified but warden unavailable at hostel office.,BH-5 - Room 486,Hostel,High,Hostel Administration,4,0
+Continuous assessment CA-2 marks missing in UMS,Teacher submitted grade sheet but portal marks column displays absent.,Block 34 - Examination Office,Academics,High,Examination Cell,50,0
+Assistance needed: Continuous assessment CA-2 marks missing in UMS,Teacher submitted grade sheet but portal marks column displays absent.,Block 33 - Room 341,Academics,High,Examination Cell,40,0
+Urgent: Continuous assessment CA-2 marks missing in UMS,Teacher submitted grade sheet but portal marks column displays absent.,Block 55 - Room 215,Academics,High,Examination Cell,60,0
+Request for repair: Continuous assessment CA-2 marks missing in UMS,Teacher submitted grade sheet but portal marks column displays absent.,Block 29 (Law & Management) - Room 121,Academics,High,Examination Cell,64,0
+Mid-term examination hall ticket photo mismatch,"Admit card contains corrupt portrait image, invigilator verification issue.",Block 25 - Examination Cell,Academics,High,Examination Cell,1,0
+Urgent: Mid-term examination hall ticket photo mismatch,"Admit card contains corrupt portrait image, invigilator verification issue.",Block 36 - Room 203,Academics,High,Examination Cell,1,0
+Problem with Mid-term examination hall ticket photo mismatch,"Admit card contains corrupt portrait image, invigilator verification issue.",Block 36 - Room 165,Academics,High,Examination Cell,6,0
+Request for repair: Mid-term examination hall ticket photo mismatch,"Admit card contains corrupt portrait image, invigilator verification issue.",Block 25 (Auditorium & Administration) - Room 212,Academics,High,Examination Cell,5,0
+End-term exam timetable clash for re-appear course,Two subject papers scheduled at the exact same 9:30 AM slot on Monday.,Block 25 - Examination Cell,Academics,Critical,Examination Cell,15,0
+Assistance needed: End-term exam timetable clash for re-appear course,Two subject papers scheduled at the exact same 9:30 AM slot on Monday.,Block 55 - Room 186,Academics,Critical,Examination Cell,24,0
+Request for repair: End-term exam timetable clash for re-appear course,Two subject papers scheduled at the exact same 9:30 AM slot on Monday.,Block 34 - Room 260,Academics,Critical,Examination Cell,8,0
+Urgent: End-term exam timetable clash for re-appear course,Two subject papers scheduled at the exact same 9:30 AM slot on Monday.,Block 38 - Room 395,Academics,Critical,Examination Cell,26,0
+Attendance discrepancy of 5 lectures in Data Structures,Medical certificate approved by COD but attendance percentage unchanged.,Block 34 - CSE Department Office,Academics,Medium,Examination Cell,1,0
+Issue reported: Attendance discrepancy of 5 lectures in Data Structures,Medical certificate approved by COD but attendance percentage unchanged.,Block 56 - Room 202,Academics,Medium,Examination Cell,1,0
+Defective Attendance discrepancy of 5 lectures in Data Structures,Medical certificate approved by COD but attendance percentage unchanged.,Block 33 - Room 255,Academics,Medium,Examination Cell,12,0
+Request for repair: Attendance discrepancy of 5 lectures in Data Structures,Medical certificate approved by COD but attendance percentage unchanged.,Block 25 (Auditorium & Administration) - Room 122,Academics,Medium,Examination Cell,2,0
+Fee receipt not generated after successful UPI payment,"Bank account debited 68,000 INR but ERP shows fee pending.",Block 25 - Accounts Office,Finance,High,Accounts/Finance,1,0
+Issue reported: Fee receipt not generated after successful UPI payment,"Bank account debited 68,000 INR but ERP shows fee pending.",Block 29 (Law & Management) - Room 290,Finance,High,Accounts/Finance,1,0
+Complaint regarding Fee receipt not generated after successful UPI payment,"Bank account debited 68,000 INR but ERP shows fee pending.",Block 32 - Room 316,Finance,High,Accounts/Finance,6,0
+Request for repair: Fee receipt not generated after successful UPI payment,"Bank account debited 68,000 INR but ERP shows fee pending.",Block 56 - Room 286,Finance,High,Accounts/Finance,11,0
+Hostel mess caution security deposit refund delay,Graduated student refund request pending for over 45 days.,Block 25 - Accounts Office,Finance,Medium,Accounts/Finance,1,0
+Hostel mess caution security deposit refund delay,Graduated student refund request pending for over 45 days.,Block 34 - Room 323,Finance,Medium,Accounts/Finance,1,0
+Assistance needed: Hostel mess caution security deposit refund delay,Graduated student refund request pending for over 45 days.,Block 25 (Auditorium & Administration) - Room 376,Finance,Medium,Accounts/Finance,15,0
+Hostel mess caution security deposit refund delay,Graduated student refund request pending for over 45 days.,UniMall - Room 324,Finance,Medium,Accounts/Finance,14,0
+Late fine levied despite paying before deadline,System calculated 500 INR late penalty due to server timezone mismatch.,Block 25 - Accounts Office,Finance,Medium,Accounts/Finance,1,0
+Assistance needed: Late fine levied despite paying before deadline,System calculated 500 INR late penalty due to server timezone mismatch.,Block 55 - Room 226,Finance,Medium,Accounts/Finance,1,0
+Assistance needed: Late fine levied despite paying before deadline,System calculated 500 INR late penalty due to server timezone mismatch.,UniMall - Room 225,Finance,Medium,Accounts/Finance,15,0
+Late fine levied despite paying before deadline,System calculated 500 INR late penalty due to server timezone mismatch.,Block 25 (Auditorium & Administration) - Room 413,Finance,Medium,Accounts/Finance,12,0
+Scholarship deduction not reflected on semester fee slip,Top 5% university merit scholarship concession absent from challan.,Block 25 - Accounts Office,Finance,High,Accounts/Finance,1,0
+Issue reported: Scholarship deduction not reflected on semester fee slip,Top 5% university merit scholarship concession absent from challan.,Block 55 - Room 115,Finance,High,Accounts/Finance,6,0
+Complaint regarding Scholarship deduction not reflected on semester fee slip,Top 5% university merit scholarship concession absent from challan.,Block 34 - Room 350,Finance,High,Accounts/Finance,1,0
+Complaint regarding Scholarship deduction not reflected on semester fee slip,Top 5% university merit scholarship concession absent from challan.,Block 38 - Room 275,Finance,High,Accounts/Finance,1,0
+Bicycle stolen from UniMall parking bay,Locked Hero Sprint cycle missing between 2 PM and 5 PM; CCTV check required.,UniMall - East Parking,Security,High,Security,1,0
+Assistance needed: Bicycle stolen from UniMall parking bay,Locked Hero Sprint cycle missing between 2 PM and 5 PM; CCTV check required.,Block 13 (Central Library) - Room 106,Security,High,Security,7,0
+Defective Bicycle stolen from UniMall parking bay,Locked Hero Sprint cycle missing between 2 PM and 5 PM; CCTV check required.,Block 33 - Room 224,Security,High,Security,14,0
+Issue reported: Bicycle stolen from UniMall parking bay,Locked Hero Sprint cycle missing between 2 PM and 5 PM; CCTV check required.,UniMall - Room 385,Security,High,Security,15,0
+Unauthorized trespasser spotted near hostel boundary wall,Individual without student ID trying to scale outer perimeter railing.,BH-8 - Perimeter Boundary,Security,Critical,Security,80,1
+Defective Unauthorized trespasser spotted near hostel boundary wall,Individual without student ID trying to scale outer perimeter railing.,GH-4 - Room 344,Security,Critical,Security,84,1
+Urgent: Unauthorized trespasser spotted near hostel boundary wall,Individual without student ID trying to scale outer perimeter railing.,BH-2 - Room 251,Security,High,Security,82,1
+Defective Unauthorized trespasser spotted near hostel boundary wall,Individual without student ID trying to scale outer perimeter railing.,BH-5 - Room 440,Security,Critical,Security,85,1
+Student identity card lost in central library,Smart card with NFC chip misplaced; request block to prevent misuse.,Block 13 (Central Library),Security,Medium,Security,1,0
+Complaint regarding Student identity card lost in central library,Smart card with NFC chip misplaced; request block to prevent misuse.,Block 56 - Room 382,Security,Medium,Security,1,0
+Complaint regarding Student identity card lost in central library,Smart card with NFC chip misplaced; request block to prevent misuse.,UniMall - Room 239,Security,Medium,Security,1,0
+Assistance needed: Student identity card lost in central library,Smart card with NFC chip misplaced; request block to prevent misuse.,Block 36 - Room 162,Security,Medium,Security,14,0
+Heated argument and altercation near sports ground gate,Aggressive behavior causing safety concern for nearby students.,Block 55 - Sports Gate,Security,Critical,Security,40,1
+Defective Heated argument and altercation near sports ground gate,Aggressive behavior causing safety concern for nearby students.,Block 55 - Room 162,Security,High,Security,36,1
+Defective Heated argument and altercation near sports ground gate,Aggressive behavior causing safety concern for nearby students.,UniMall - Room 242,Security,Critical,Security,33,1
+Defective Heated argument and altercation near sports ground gate,Aggressive behavior causing safety concern for nearby students.,Block 38 - Room 217,Security,Critical,Security,35,1

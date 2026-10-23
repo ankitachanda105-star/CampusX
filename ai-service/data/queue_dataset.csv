@@ -1,0 +1,361 @@
+people_ahead,active_counters,avg_service_time_minutes,time_of_day_hour,office_type,actual_wait_minutes
+0,2,6.0,9,Student Welfare Office,1.3
+3,1,8.0,13,Hostel Administration,24.6
+10,2,4.0,13,Hostel Administration,19.7
+15,1,8.0,9,Hostel Administration,122.5
+7,1,8.0,15,Accounts Office,79.3
+9,4,6.0,9,Hostel Administration,14.2
+20,2,6.0,10,Examination Cell,61.6
+13,4,10.0,16,Accounts Office,36.4
+9,3,10.0,16,Examination Cell,31.3
+13,1,8.0,12,Examination Cell,146.5
+1,2,6.0,13,Accounts Office,6.0
+8,4,7.5,10,Hostel Administration,16.6
+23,3,8.0,13,Hostel Administration,62.1
+24,3,8.0,9,Accounts Office,63.0
+8,2,8.0,15,Hostel Administration,42.3
+10,1,5.0,14,Student Welfare Office,67.7
+24,1,7.5,10,Hostel Administration,185.1
+21,4,7.5,9,Accounts Office,38.5
+20,4,4.0,12,Hostel Administration,23.8
+3,1,10.0,12,Hostel Administration,40.3
+17,4,4.0,12,Accounts Office,28.0
+15,3,8.0,13,Examination Cell,42.2
+15,2,7.5,17,Hostel Administration,48.5
+2,3,7.5,14,Examination Cell,8.4
+9,3,8.0,16,Accounts Office,28.2
+17,4,7.5,14,Student Welfare Office,44.7
+18,4,5.0,15,Examination Cell,29.7
+21,2,7.5,9,Hostel Administration,76.9
+3,4,4.0,17,Student Welfare Office,5.4
+2,4,6.0,14,Examination Cell,8.2
+10,4,6.0,16,Accounts Office,21.0
+7,1,7.5,10,Student Welfare Office,57.9
+14,2,10.0,13,Accounts Office,77.7
+11,3,7.5,11,Student Welfare Office,34.9
+5,2,4.0,15,Examination Cell,15.1
+20,3,7.5,13,Hostel Administration,51.2
+9,2,4.0,16,Hostel Administration,20.9
+22,3,7.5,13,Hostel Administration,55.7
+15,1,5.0,15,Hostel Administration,100.3
+8,1,8.0,9,Hostel Administration,71.1
+24,2,8.0,14,Student Welfare Office,114.4
+20,1,10.0,9,Examination Cell,190.8
+2,3,6.0,15,Examination Cell,3.0
+5,3,7.5,13,Student Welfare Office,12.8
+25,1,7.5,10,Student Welfare Office,193.8
+25,3,4.0,15,Hostel Administration,40.9
+11,3,8.0,15,Hostel Administration,41.7
+19,3,8.0,12,Accounts Office,70.0
+22,3,10.0,15,Hostel Administration,89.5
+3,2,8.0,11,Accounts Office,19.5
+18,2,7.5,10,Hostel Administration,67.1
+1,3,5.0,16,Student Welfare Office,0.4
+11,1,10.0,14,Examination Cell,152.8
+14,1,10.0,12,Accounts Office,185.0
+7,2,8.0,12,Student Welfare Office,36.8
+10,2,8.0,9,Examination Cell,42.4
+17,3,5.0,10,Examination Cell,31.2
+18,3,4.0,11,Examination Cell,29.9
+16,1,10.0,10,Hostel Administration,165.0
+19,1,10.0,17,Examination Cell,183.6
+12,4,10.0,10,Hostel Administration,31.6
+10,2,4.0,11,Accounts Office,28.7
+12,3,7.5,17,Student Welfare Office,26.2
+13,4,5.0,15,Examination Cell,19.8
+23,1,6.0,15,Hostel Administration,171.0
+2,1,7.5,10,Accounts Office,18.9
+25,2,8.0,9,Student Welfare Office,94.0
+21,4,10.0,9,Student Welfare Office,51.3
+3,2,5.0,16,Student Welfare Office,9.6
+3,3,8.0,12,Student Welfare Office,13.2
+19,3,4.0,11,Accounts Office,37.4
+4,4,4.0,11,Examination Cell,7.7
+23,2,7.5,15,Accounts Office,105.6
+1,2,5.0,9,Accounts Office,8.1
+15,4,7.5,13,Hostel Administration,27.8
+9,4,8.0,13,Accounts Office,20.6
+19,1,4.0,12,Hostel Administration,93.9
+15,4,5.0,11,Accounts Office,29.1
+2,4,10.0,9,Student Welfare Office,6.2
+18,4,10.0,15,Hostel Administration,56.8
+5,4,10.0,14,Student Welfare Office,16.7
+12,3,10.0,14,Accounts Office,57.1
+16,1,8.0,17,Accounts Office,131.6
+7,1,5.0,13,Examination Cell,39.9
+5,4,7.5,16,Accounts Office,15.5
+20,3,5.0,16,Student Welfare Office,32.3
+20,3,6.0,9,Hostel Administration,35.2
+9,1,10.0,10,Student Welfare Office,94.5
+18,1,7.5,12,Hostel Administration,172.0
+22,1,8.0,11,Student Welfare Office,232.6
+11,3,6.0,15,Examination Cell,27.1
+2,3,4.0,17,Student Welfare Office,2.2
+10,1,8.0,11,Examination Cell,103.9
+9,4,10.0,14,Accounts Office,33.7
+20,4,8.0,14,Accounts Office,52.1
+6,2,5.0,11,Hostel Administration,20.1
+16,1,10.0,14,Accounts Office,213.6
+23,4,4.0,15,Examination Cell,32.3
+19,3,10.0,16,Hostel Administration,64.4
+6,3,10.0,16,Hostel Administration,24.3
+24,4,8.0,17,Student Welfare Office,43.1
+1,4,6.0,17,Student Welfare Office,4.4
+9,1,5.0,13,Accounts Office,52.9
+14,3,4.0,15,Examination Cell,24.0
+12,1,6.0,12,Examination Cell,100.5
+1,3,7.5,11,Examination Cell,4.3
+2,1,6.0,12,Accounts Office,20.3
+24,3,5.0,13,Accounts Office,41.5
+13,4,4.0,10,Examination Cell,14.6
+22,2,6.0,15,Examination Cell,81.6
+5,1,8.0,14,Hostel Administration,55.9
+15,1,10.0,15,Hostel Administration,184.0
+11,2,10.0,10,Accounts Office,60.1
+11,3,10.0,11,Accounts Office,51.5
+20,2,5.0,10,Hostel Administration,51.9
+1,2,4.0,14,Examination Cell,5.7
+8,1,10.0,12,Hostel Administration,108.3
+13,4,10.0,16,Student Welfare Office,33.0
+10,2,7.5,16,Hostel Administration,38.8
+23,4,4.0,15,Accounts Office,33.9
+10,1,4.0,14,Student Welfare Office,51.6
+14,1,10.0,14,Student Welfare Office,178.8
+2,4,6.0,17,Accounts Office,8.8
+1,2,4.0,12,Hostel Administration,3.9
+18,1,8.0,11,Hostel Administration,197.7
+12,3,10.0,13,Student Welfare Office,38.8
+0,2,7.5,17,Accounts Office,3.8
+6,3,10.0,16,Hostel Administration,21.7
+2,4,5.0,16,Examination Cell,7.2
+21,3,10.0,10,Student Welfare Office,67.9
+9,2,10.0,11,Student Welfare Office,58.1
+7,4,4.0,14,Examination Cell,11.5
+19,1,4.0,13,Examination Cell,80.9
+18,1,5.0,14,Hostel Administration,117.3
+4,2,5.0,15,Student Welfare Office,14.7
+5,2,6.0,12,Student Welfare Office,19.3
+2,3,5.0,17,Student Welfare Office,3.2
+18,2,5.0,14,Examination Cell,59.6
+2,1,10.0,13,Accounts Office,24.9
+15,3,10.0,13,Accounts Office,53.0
+9,4,4.0,9,Hostel Administration,7.9
+10,3,10.0,14,Examination Cell,42.9
+16,1,6.0,12,Student Welfare Office,119.8
+19,4,5.0,11,Hostel Administration,34.0
+6,2,7.5,17,Student Welfare Office,22.3
+16,4,5.0,12,Hostel Administration,24.6
+15,4,6.0,17,Student Welfare Office,20.1
+24,4,6.0,9,Student Welfare Office,35.0
+11,3,4.0,15,Examination Cell,20.7
+4,1,7.5,14,Accounts Office,45.4
+24,2,5.0,17,Student Welfare Office,53.8
+16,4,5.0,17,Hostel Administration,21.0
+5,4,8.0,13,Student Welfare Office,9.5
+22,3,7.5,9,Hostel Administration,53.3
+18,3,10.0,9,Hostel Administration,53.0
+23,1,8.0,16,Examination Cell,186.7
+4,2,4.0,10,Hostel Administration,7.6
+22,2,7.5,17,Hostel Administration,83.6
+22,2,8.0,12,Accounts Office,122.1
+14,3,8.0,14,Examination Cell,52.3
+19,4,5.0,12,Student Welfare Office,32.3
+22,2,10.0,16,Student Welfare Office,109.3
+17,3,6.0,10,Student Welfare Office,32.4
+11,2,6.0,9,Hostel Administration,31.8
+14,3,10.0,16,Student Welfare Office,47.4
+4,1,8.0,12,Student Welfare Office,40.6
+20,2,4.0,10,Examination Cell,41.9
+0,2,7.5,16,Examination Cell,1.7
+24,3,6.0,13,Examination Cell,51.0
+17,1,5.0,15,Examination Cell,108.4
+25,4,5.0,13,Hostel Administration,34.6
+10,3,7.5,17,Accounts Office,29.0
+16,4,6.0,12,Examination Cell,32.0
+0,3,6.0,12,Examination Cell,0.0
+13,3,4.0,15,Hostel Administration,22.8
+0,3,7.5,12,Examination Cell,2.9
+9,1,6.0,14,Student Welfare Office,65.7
+22,1,10.0,13,Student Welfare Office,224.4
+15,2,7.5,14,Examination Cell,71.4
+24,2,10.0,10,Examination Cell,122.6
+2,1,4.0,17,Student Welfare Office,7.7
+3,2,10.0,16,Hostel Administration,15.5
+25,1,7.5,11,Hostel Administration,234.1
+12,3,4.0,12,Accounts Office,23.6
+22,1,8.0,9,Student Welfare Office,158.8
+24,4,6.0,15,Examination Cell,50.4
+12,1,10.0,17,Hostel Administration,121.7
+23,2,4.0,9,Examination Cell,45.7
+17,4,5.0,12,Hostel Administration,27.2
+1,4,8.0,9,Accounts Office,7.3
+14,1,5.0,9,Accounts Office,68.8
+7,3,8.0,14,Student Welfare Office,24.8
+13,3,6.0,9,Examination Cell,26.7
+17,4,4.0,14,Hostel Administration,23.0
+22,4,7.5,11,Student Welfare Office,48.5
+9,2,7.5,9,Examination Cell,35.8
+12,2,6.0,12,Examination Cell,42.7
+1,3,7.5,9,Examination Cell,5.7
+15,2,6.0,13,Examination Cell,51.2
+23,4,5.0,12,Accounts Office,38.6
+24,3,7.5,16,Student Welfare Office,60.2
+14,1,10.0,16,Hostel Administration,145.3
+11,3,7.5,9,Examination Cell,27.3
+9,2,5.0,14,Hostel Administration,30.0
+15,3,6.0,16,Examination Cell,32.5
+23,3,5.0,11,Examination Cell,49.5
+16,1,4.0,9,Accounts Office,68.3
+6,4,6.0,9,Accounts Office,15.1
+21,4,4.0,9,Hostel Administration,22.4
+0,4,5.0,10,Student Welfare Office,1.6
+7,2,8.0,17,Examination Cell,27.1
+14,2,10.0,12,Hostel Administration,92.6
+20,1,4.0,15,Accounts Office,107.6
+13,3,8.0,10,Hostel Administration,36.6
+7,2,10.0,16,Accounts Office,40.1
+17,1,5.0,14,Student Welfare Office,102.9
+2,3,5.0,12,Hostel Administration,5.1
+24,2,10.0,10,Hostel Administration,119.9
+1,1,7.5,12,Student Welfare Office,10.7
+24,3,4.0,13,Hostel Administration,30.7
+15,2,6.0,17,Hostel Administration,42.3
+24,3,5.0,10,Accounts Office,41.2
+12,2,10.0,15,Examination Cell,73.1
+24,3,4.0,11,Student Welfare Office,39.7
+3,1,4.0,14,Hostel Administration,17.1
+9,4,7.5,10,Accounts Office,19.6
+18,2,10.0,15,Examination Cell,109.7
+13,3,7.5,13,Examination Cell,35.4
+11,3,5.0,16,Accounts Office,23.1
+0,4,6.0,15,Student Welfare Office,1.7
+13,2,6.0,14,Student Welfare Office,50.4
+10,3,10.0,16,Hostel Administration,35.4
+10,4,6.0,15,Examination Cell,23.2
+21,1,10.0,16,Examination Cell,219.9
+22,1,7.5,16,Student Welfare Office,168.1
+25,4,4.0,16,Hostel Administration,27.7
+18,4,8.0,17,Hostel Administration,36.9
+22,1,4.0,12,Student Welfare Office,112.5
+18,4,6.0,15,Accounts Office,34.8
+14,3,7.5,16,Examination Cell,39.9
+11,1,7.5,10,Examination Cell,90.9
+11,3,6.0,16,Examination Cell,26.1
+11,4,4.0,16,Hostel Administration,12.2
+25,1,4.0,14,Accounts Office,135.9
+16,2,8.0,11,Examination Cell,78.8
+5,4,7.5,9,Examination Cell,12.6
+18,4,7.5,9,Hostel Administration,31.3
+18,1,8.0,11,Accounts Office,175.2
+16,3,8.0,15,Hostel Administration,54.2
+21,3,8.0,10,Examination Cell,60.6
+3,2,6.0,10,Student Welfare Office,8.8
+19,2,8.0,15,Hostel Administration,94.6
+17,2,7.5,13,Examination Cell,64.6
+11,1,7.5,11,Accounts Office,109.3
+13,4,7.5,16,Hostel Administration,25.9
+9,1,6.0,12,Examination Cell,69.8
+17,1,8.0,10,Hostel Administration,142.0
+24,4,8.0,12,Accounts Office,62.1
+9,1,7.5,13,Examination Cell,70.3
+6,3,10.0,15,Examination Cell,26.4
+6,1,8.0,14,Examination Cell,66.8
+16,1,5.0,15,Student Welfare Office,113.7
+22,2,5.0,11,Examination Cell,75.3
+4,3,10.0,15,Hostel Administration,14.8
+12,3,10.0,14,Accounts Office,51.9
+23,4,10.0,14,Accounts Office,79.6
+6,4,5.0,16,Hostel Administration,8.9
+18,4,6.0,9,Examination Cell,25.6
+0,1,5.0,16,Hostel Administration,2.5
+20,3,5.0,13,Examination Cell,34.5
+8,1,6.0,11,Student Welfare Office,65.5
+22,1,4.0,12,Accounts Office,109.1
+0,1,10.0,14,Hostel Administration,1.2
+7,4,4.0,10,Accounts Office,10.2
+9,2,7.5,11,Student Welfare Office,45.7
+14,3,10.0,12,Examination Cell,58.3
+19,4,5.0,10,Hostel Administration,26.0
+11,4,6.0,11,Hostel Administration,22.4
+17,3,10.0,9,Examination Cell,56.4
+23,4,6.0,9,Examination Cell,37.8
+15,4,4.0,12,Examination Cell,18.0
+10,2,7.5,15,Student Welfare Office,48.2
+24,1,4.0,10,Hostel Administration,101.8
+16,3,10.0,17,Hostel Administration,49.0
+2,2,6.0,10,Hostel Administration,6.2
+17,3,7.5,10,Examination Cell,44.2
+23,2,4.0,12,Hostel Administration,56.0
+21,2,4.0,9,Student Welfare Office,41.7
+15,3,8.0,17,Examination Cell,41.6
+23,1,4.0,14,Student Welfare Office,114.7
+15,4,8.0,14,Accounts Office,42.7
+18,1,5.0,17,Accounts Office,93.2
+15,3,7.5,11,Accounts Office,55.6
+7,3,5.0,15,Hostel Administration,16.5
+18,3,4.0,17,Accounts Office,25.7
+12,1,7.5,13,Accounts Office,99.6
+17,4,4.0,14,Accounts Office,24.1
+11,4,5.0,17,Hostel Administration,15.4
+13,1,5.0,17,Accounts Office,71.8
+23,3,4.0,12,Hostel Administration,38.0
+1,2,10.0,13,Hostel Administration,7.9
+22,3,7.5,10,Hostel Administration,55.2
+20,4,4.0,9,Examination Cell,22.1
+25,4,10.0,14,Student Welfare Office,76.7
+6,2,8.0,10,Accounts Office,27.7
+3,3,5.0,16,Hostel Administration,7.1
+3,1,5.0,13,Student Welfare Office,16.1
+4,1,10.0,12,Student Welfare Office,50.3
+21,3,6.0,11,Accounts Office,52.4
+3,4,4.0,11,Examination Cell,5.4
+4,2,7.5,14,Examination Cell,24.2
+0,1,5.0,16,Accounts Office,6.1
+25,3,4.0,9,Accounts Office,35.5
+15,1,7.5,15,Hostel Administration,136.9
+14,2,4.0,12,Student Welfare Office,37.0
+8,4,5.0,15,Accounts Office,15.5
+20,1,7.5,14,Examination Cell,200.2
+5,1,6.0,12,Student Welfare Office,41.8
+16,3,8.0,12,Hostel Administration,51.4
+24,2,8.0,15,Accounts Office,129.5
+5,2,8.0,14,Examination Cell,29.1
+18,2,8.0,12,Student Welfare Office,95.6
+17,3,5.0,16,Hostel Administration,30.4
+16,4,4.0,14,Accounts Office,25.3
+10,2,6.0,9,Examination Cell,31.0
+2,3,10.0,15,Student Welfare Office,8.0
+4,2,10.0,15,Student Welfare Office,27.6
+7,2,7.5,13,Student Welfare Office,26.8
+4,2,10.0,9,Student Welfare Office,18.3
+5,3,8.0,12,Accounts Office,22.8
+4,3,10.0,10,Hostel Administration,14.9
+22,3,7.5,9,Accounts Office,52.2
+11,3,4.0,9,Accounts Office,15.5
+15,4,6.0,17,Hostel Administration,23.3
+5,4,4.0,9,Examination Cell,6.7
+12,2,10.0,10,Examination Cell,62.2
+10,4,10.0,9,Accounts Office,26.7
+3,3,5.0,12,Accounts Office,9.4
+21,3,6.0,12,Student Welfare Office,50.4
+11,1,7.5,10,Accounts Office,89.6
+6,1,4.0,12,Hostel Administration,32.6
+15,4,10.0,13,Hostel Administration,37.3
+5,3,7.5,14,Hostel Administration,14.4
+18,1,5.0,10,Student Welfare Office,93.5
+24,2,8.0,9,Hostel Administration,93.9
+18,2,7.5,13,Hostel Administration,68.8
+16,2,4.0,16,Accounts Office,38.3
+4,1,7.5,10,Examination Cell,33.2
+6,2,8.0,13,Hostel Administration,24.7
+12,4,8.0,14,Accounts Office,33.4
+25,4,4.0,15,Accounts Office,31.9
+3,1,6.0,17,Accounts Office,21.7
+12,4,8.0,16,Student Welfare Office,23.9
+1,4,6.0,12,Hostel Administration,3.1
+11,1,6.0,13,Student Welfare Office,72.1
+4,3,10.0,16,Examination Cell,14.9
+8,4,8.0,10,Student Welfare Office,16.8
+24,3,4.0,17,Hostel Administration,31.4
+4,1,5.0,12,Hostel Administration,25.9
+11,2,6.0,14,Accounts Office,46.8
